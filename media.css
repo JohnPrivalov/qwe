@@ -1,0 +1,56 @@
+@media (max-width: 1200px) {
+    .nav-menu_list{
+        text-align: center;
+    }
+    .about_hero{
+        display: block;
+        text-align: center;
+        padding-top: 40px;
+    }
+    #hero{
+        margin-bottom: 0px;
+    }
+    .secon_title{
+        padding-top: 0px;
+    }
+    .title{
+        font-size: 4vw;
+    }
+    .hero_title{
+        margin-left: 0px;
+    }
+    .about_span{
+        margin-bottom: 100px;
+    }
+    .blog_title{
+        font-size: 4vw;
+    }
+    .technology_top{
+        display: block;
+        text-align: center;
+        padding-top: 30px;
+    }
+    .subscribe_text {
+        font-size: 30px;
+        
+}
+
+    #section_footer{
+        text-align: center;
+    } 
+    .footer_title{
+        font-size: 40px;
+    }  
+}
+@media (width: 768px) {
+    
+}
+
+@media (width: 320px) {
+    
+}
+
+
+
+
+

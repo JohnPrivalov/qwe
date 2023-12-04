@@ -226,7 +226,7 @@ time{
     text-align: center;
 }
 .button_subscribe{
-    transition: 1s;
+    transition: 5s;
     color: white;
     font-size: 24px;
     width: 275px;
